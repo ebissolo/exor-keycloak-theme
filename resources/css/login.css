@@ -101,6 +101,9 @@ div.kc-logo-text span {
     overflow: visible;
     white-space: nowrap;
     margin-bottom: 100px;
+    margin-left: 10vw;
+    padding-left: 30px;
+    text-align: left;
 }
 
 #kc-header-wrapper {
@@ -121,7 +124,7 @@ div.kc-logo-text span {
 } */
 
 #kc-info {
-    padding-bottom: 200px;
+    /*padding-bottom: 200px;*/
     margin-bottom: -200px;
 }
 
@@ -289,6 +292,7 @@ a.zocial  {
         text-align: left;
         margin-bottom: 40px;
         min-height: 116px;
+        margin-left: 0px;
     }
 
     #kc-header-wrapper {
@@ -382,6 +386,7 @@ a.zocial  {
   border-top: 0;
   box-shadow: 0 0 0;
   margin-left: 10vw;
+  margin-top: 25vh;
 }
 
 @media (max-width: 580px) {
